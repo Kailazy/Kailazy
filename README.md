@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Kailazy
-- 👀 I’m interested in computer science
-- 💞️ I’m looking to collaborate on any projects!
+I'm Kai Lazarov, a recent graduate from McGill University with a major in Computer Science and a minor in Economics. I have hands-on experience in machine learning and full-stack development, with proficiency in PyTorch, Python, Java, HTML, CSS, and SQL.
